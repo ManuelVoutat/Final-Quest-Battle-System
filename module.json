@@ -1,0 +1,47 @@
+{
+  "id": "Final-Quest-Battle-System",
+  "title": "Final Quest Battle System",
+  "description": "Battle System of Final Quest in DnD5E System",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.316"
+  },
+  "authors": [
+    {
+      "name": "Manuel Voutat",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+  ],
+  "scripts": [
+  ],
+  "socket": true,
+  "styles": [
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json",
+      "flags": {}
+    }
+  ],
+  "media": [
+  ],
+  "url": "https://github.com/ManuelVoutat/Final-Quest-Battle-System",
+  "manifest": "",
+  "download": "",
+  "bugs": "",
+  "readme": "",
+  "flags": {
+    "allowBugReporter": true
+  }
+}
